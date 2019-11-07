@@ -1,11 +1,13 @@
 body {
-  font-family: "Open Sans", sans-serif; }
+  font-family: "Open Sans", sans-serif;
+background-color: orange; }
 
 h1, h2, h3 {
   font-family: "Lobster", cursive; }
 
 h2 {
-  color: rgb(30, 0, 255); }
+  color: rgb(30, 0, 255);
+background-color: orange }
 
 header h2 {
   color: #bfb9e9; }
